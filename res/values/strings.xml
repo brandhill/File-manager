@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="media_dialog">Media preview</string>
+    <string name="dir_info">Folder Info</string>
+    <string name="manager_act">Phone Management</string>
+    <string name="about">about</string>
+</resources>
