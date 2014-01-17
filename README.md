@@ -11,8 +11,7 @@ Features:
 * Open files with an external application (Music, Video, Images, etc..)
 
 
-Google Play Link : 
-https://play.google.com/store/apps/details?id=com.mitsw.filemanager
+Google Play [Link](https://play.google.com/store/apps/details?id=com.mitsw.filemanager)
 
 
 
